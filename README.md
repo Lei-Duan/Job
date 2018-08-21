@@ -18,6 +18,8 @@ https://jobs.lever.co/wish/c43612b6-c49a-4298-934a-b8d8efd04d16
 ### Data Scientist
 https://careers.walmart.com/us/jobs/1098025BR-data-scientist-san-bruno-ca
 
+https://careers.walmart.com/results?q=data%20scientist&page=1&sort=rank&jobCity=San%20Bruno&jobState=CA&expand=brand,department,type,rate&jobCareerArea=all
+
 ## Walmart eCommerce
 ### Associate Product Analyst
 https://careers.walmart.com/us/jobs/1104552BR-associate-product-analyst-san-bruno-ca
