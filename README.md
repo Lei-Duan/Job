@@ -38,3 +38,5 @@ https://careers.microsoft.com/us/en/job/473873/Intern-opportunities-for-students
 ### Full-time opportunities for students & recent graduates: Data & Applied Sciences
 https://careers.microsoft.com/us/en/job/473849/Full-time-opportunities-for-students-recent-graduates-Data-Applied-Sciences
 
+## Uber
+https://www.uber.com/careers/list/?city=san-francisco&country=united-states-of-america&keywords=data+&subteam=all&team=all
