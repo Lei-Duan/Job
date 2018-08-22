@@ -40,3 +40,10 @@ https://careers.microsoft.com/us/en/job/473849/Full-time-opportunities-for-stude
 
 ## Uber
 https://www.uber.com/careers/list/?city=san-francisco&country=united-states-of-america&keywords=data+&subteam=all&team=all
+
+
+
+
+
+
+http://blog.datadive.net/selecting-good-features-part-iii-random-forests/
