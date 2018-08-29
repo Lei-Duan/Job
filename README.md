@@ -42,10 +42,20 @@ https://careers.microsoft.com/us/en/job/473849/Full-time-opportunities-for-stude
 https://www.uber.com/careers/list/?city=san-francisco&country=united-states-of-america&keywords=data+&subteam=all&team=all
 
 
+## Cybercoder
+https://www.cybercoders.com/data-scientist-job-442763
+https://www.cybercoders.com/data-scientist-job-421067
+https://www.cybercoders.com/data-scientist-job-444403
+https://www.cybercoders.com/data-scientist-data-modeling-analytics-python-r-aws-redshift-job-444555
+https://www.cybercoders.com/data-scientist-fully-automated-risk-control-engine-job-420072
+https://www.cybercoders.com/data-scientist-machine-learning-job-442570
 
-
+## quantfind
+https://www.quantifind.com/careers/associate-data-scientist
 
 
 http://blog.datadive.net/selecting-good-features-part-iii-random-forests/
 http://www.ccs.miami.edu/~hishwaran/papers/IKGML.JASA.2010.pdf
 https://cran.r-project.org/web/packages/datarobot/vignettes/PartialDependence.html
+
+
