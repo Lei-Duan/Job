@@ -40,6 +40,10 @@ https://careers.microsoft.com/us/en/job/473849/Full-time-opportunities-for-stude
 
 ## Uber
 https://www.uber.com/careers/list/?city=san-francisco&country=united-states-of-america&keywords=data+&subteam=all&team=all
+Data Scientist, Optimization: https://www.uber.com/careers/list/35464/
+Data Scientist - Marketplace Optimization:https://www.uber.com/careers/list/16643/
+Product Analyst: https://www.uber.com/careers/list/41750/
+Data Analyst: https://www.uber.com/careers/list/39836/?iis=uber.com/careers&iisp=he-6584079
 
 
 ## Cybercoder
