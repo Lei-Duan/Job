@@ -1,3 +1,9 @@
+## Companies
+1. The 19 hottest San Francisco startups to watch in 2018:   
+https://www.businessinsider.com/the-19-hottest-startups-in-san-francisco-to-watch-in-2018-2017-11#payjoy-is-helping-people-with-no-credit-or-cash-get-smartphones-12   
+2. 
+
+
 ## Nextdoor (382)   
 ### Data Science Product
 https://neuvoo.com/view/?id=0kfyg4fj96&source=linkedin&utm_source=partner&utm_medium=linkedin&puid=fddgaad5bada89d7bad9eddccadadad6bdd7fdda3ee3cdcgfec3dc&splitab=1&action=emailAlert
