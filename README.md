@@ -39,27 +39,45 @@ https://careers.microsoft.com/us/en/job/473873/Intern-opportunities-for-students
 https://careers.microsoft.com/us/en/job/473849/Full-time-opportunities-for-students-recent-graduates-Data-Applied-Sciences
 
 ## Uber
-https://www.uber.com/careers/list/?city=san-francisco&country=united-states-of-america&keywords=data+&subteam=all&team=all
-Data Scientist, Optimization: https://www.uber.com/careers/list/35464/
-Data Scientist - Marketplace Optimization:https://www.uber.com/careers/list/16643/
-Product Analyst: https://www.uber.com/careers/list/41750/
-Data Analyst: https://www.uber.com/careers/list/39836/?iis=uber.com/careers&iisp=he-6584079
+https://www.uber.com/careers/list/?city=san-francisco&country=united-states-of-america&keywords=data+&subteam=all&team=all   
+Data Scientist, Optimization: https://www.uber.com/careers/list/35464/   
+Data Scientist - Marketplace Optimization:https://www.uber.com/careers/list/16643/   
+Product Analyst: https://www.uber.com/careers/list/41750/   
+Data Analyst: https://www.uber.com/careers/list/39836/?iis=uber.com/careers&iisp=he-6584079   
 
 
 ## Cybercoder
-https://www.cybercoders.com/data-scientist-job-442763
-https://www.cybercoders.com/data-scientist-job-421067
-https://www.cybercoders.com/data-scientist-job-444403
-https://www.cybercoders.com/data-scientist-data-modeling-analytics-python-r-aws-redshift-job-444555
-https://www.cybercoders.com/data-scientist-fully-automated-risk-control-engine-job-420072
-https://www.cybercoders.com/data-scientist-machine-learning-job-442570
+https://www.cybercoders.com/data-scientist-job-442763   
+https://www.cybercoders.com/data-scientist-job-421067   
+https://www.cybercoders.com/data-scientist-job-444403   
+https://www.cybercoders.com/data-scientist-data-modeling-analytics-python-r-aws-redshift-job-444555   
+https://www.cybercoders.com/data-scientist-fully-automated-risk-control-engine-job-420072    
+https://www.cybercoders.com/data-scientist-machine-learning-job-442570   
 
 ## quantfind
-https://www.quantifind.com/careers/associate-data-scientist
+https://www.quantifind.com/careers/associate-data-scientist   
 
 
-http://blog.datadive.net/selecting-good-features-part-iii-random-forests/
-http://www.ccs.miami.edu/~hishwaran/papers/IKGML.JASA.2010.pdf
-https://cran.r-project.org/web/packages/datarobot/vignettes/PartialDependence.html
+http://blog.datadive.net/selecting-good-features-part-iii-random-forests/   
+http://www.ccs.miami.edu/~hishwaran/papers/IKGML.JASA.2010.pdf   
+https://cran.r-project.org/web/packages/datarobot/vignettes/PartialDependence.html   
 
 
+
+Interview:
+1. https://towardsdatascience.com/data-science-and-machine-learning-interview-questions-3f6207cf040b   
+2. https://news.sophos.com/en-us/2017/07/24/5-questions-to-ask-about-machine-learning/   
+3. Is rotation necessary in PCA? https://google-interview-hacks.blogspot.com/2017/04/is-rotation-necessary-in-pca-if-yes-why.html
+4. Metrics to use for imbalance data:  
+   auc, logloss, precision/recall   
+   https://www.kaggle.com/lct14558/imbalanced-data-why-you-should-not-use-roc-curve   
+   https://towardsdatascience.com/what-metrics-should-we-use-on-imbalanced-data-set-precision-recall-roc-e2e79252aeba
+   https://medium.com/urbint-engineering/using-smoteboost-and-rusboost-to-deal-with-class-imbalance-c18f8bf5b805
+   
+5. 21 question about ML: https://elitedatascience.com/machine-learning-interview-questions-answers   
+6. 40 Interview Questions asked at Startups in Machine Learning / Data Science:   
+   https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/   
+7. Correlation between countinous and categorical variables
+  https://www.researchgate.net/post/Which_test_do_I_use_to_estimate_the_correlation_between_an_independent_categorical_variable_and_a_dependent_continuous_variable
+  
+8. 
