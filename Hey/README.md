@@ -86,4 +86,17 @@ Interview:
 7. Correlation between countinous and categorical variables
   https://www.researchgate.net/post/Which_test_do_I_use_to_estimate_the_correlation_between_an_independent_categorical_variable_and_a_dependent_continuous_variable
   
-8. 
+8. 10 questions for data scientist: https://www.ziprecruiter.com/apply/ad5d2ca2?new_contact_id=7347968f
+   1.)	Describe the measures you take to monitor your progress throughout the project?
+   2.)	Describe how you’ve helped your company improve and innovate through your team’s ML work?
+   3.)	Describe how do you review and validate a new data source before merging it with existing data?
+   4.)	Describe your experience on working with recommender systems? What algorithms have you used? How did you evaluate the model?
+   5.)	Data across an enterprise should be consistent. Describe some situations you’ve faced where the data was inconsistent? What measures did you take to make this data consistent?
+   6.)	Let’s take a scenario where you have a large dataset with 1 million data points and 20 attributes? In one of the main attribute’s 20% of the data is missing? How do you handle this situation? (Describe your methodology in detail)
+   7.)	What audiences have you had to engage with your data?
+   8.)	Describe how do you maintain a strong working relationship with the project manager?
+   9.)	Describe any unexpected inferences you made during the feature selection and extraction phase of your projects?
+   10.)	What process do you use to understand a new dataset? 
+
+
+
