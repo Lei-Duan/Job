@@ -1,1 +1,1 @@
-Null is here
+The normality assumption does not affect the variance or the bias of the OLS estimates. OLS estimates may still be BLUE without the normality assumption. However, material deviations from the normality assumption may mean that the p-values (before and after HAC corrections) are not reliable.
