@@ -63,6 +63,11 @@ https://www.cybercoders.com/data-scientist-machine-learning-job-442570
 ## quantfind
 https://www.quantifind.com/careers/associate-data-scientist   
 
+## twitter
+https://careers.twitter.com/en/work-for-twitter/201802/data-scientist-product.html
+https://careers.twitter.com/en/work-for-twitter/201808/product-data-scientist-manipulation0.html
+
+
 
 http://blog.datadive.net/selecting-good-features-part-iii-random-forests/   
 http://www.ccs.miami.edu/~hishwaran/papers/IKGML.JASA.2010.pdf   
