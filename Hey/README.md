@@ -67,6 +67,12 @@ https://www.quantifind.com/careers/associate-data-scientist
 https://careers.twitter.com/en/work-for-twitter/201802/data-scientist-product.html
 https://careers.twitter.com/en/work-for-twitter/201808/product-data-scientist-manipulation0.html
 
+## square
+https://www.smartrecruiters.com/Square/743999675176171?trid=89a51157-e4b1-4ba7-abd9-ea30cbee8792
+
+## lime
+https://jobs.lever.co/limebike/e54f49e1-3348-4ff1-bdf0-b424388efd40
+https://jobs.lever.co/limebike/f6755b66-33cf-414f-9ffa-80532c2eff9e
 
 
 http://blog.datadive.net/selecting-good-features-part-iii-random-forests/   
