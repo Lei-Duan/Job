@@ -90,6 +90,15 @@ http://blog.datadive.net/selecting-good-features-part-iii-random-forests/
 http://www.ccs.miami.edu/~hishwaran/papers/IKGML.JASA.2010.pdf   
 https://cran.r-project.org/web/packages/datarobot/vignettes/PartialDependence.html   
 
+From Ken: 
+Saas Metrics: https://www.forentrepreneurs.com/saas-metrics-2/
+Online MarketPlace : https://www.sharetribe.com/academy/measure-your-success-key-marketplace-metrics/
+Churn Analysis / Cohort	: http://www.gregreda.com/2015/08/23/cohort-analysis-with-python/
+Churn Analysis : benbosukhong.com/churn-rate-part-1-customer-churn-rate-example-code/
+Churn Rate Calculation : https://engineering.shopify.com/blogs/engineering/defining-churn-rate-no-really-this-actually-requires-an-entire-blog-post
+Vanity Metrics : https://tim.blog/2009/05/19/vanity-metrics-vs-actionable-metrics/
+Funnel Optimization: https://segment.com/academy/collecting-data/how-to-optimize-your-funnel/
+
 
 
 Interview:
