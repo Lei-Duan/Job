@@ -1,21 +1,23 @@
+1. 6 Essential Skills To Look Like a Product Analyst Rockstar:
+https://medium.com/inside-formstack/an-analyst-and-beyond-ef9e0cf6608
 
-### Normailty
-The normality assumption does not affect the variance or the bias of the OLS estimates. OLS estimates may still be BLUE without the normality assumption. However, material deviations from the normality assumption may mean that the p-values (before and after HAC corrections) are not reliable.
-
-
-### Correcting for Heteroscedasticity & Autocorrelation
-There is conflicting evidence that the residuals are heteroscedastic. All tests show that the residuals are first-order autocorrelated. **Hence, the OLS estimates are inefficient, unbiased, and consistent. In other words, the p-values from OLS are too small. We need to correct the p-values in order to perform valid statistical inference.** These corrections are called heteroskedasticity and autocorrelation consistent (HAC) methods.
-
-Two popular corrections are:
-
-1. Newey-West
-2. Andrews
-
-Both corrections leave the OLS coefficient unaltered. However, the corrections increase the standard errors (and increase the p-values) of each coefficient estimate
-
-### efficiency vs biased
-
-
-
-
-http://www.1point3acres.com/bbs/thread-431724-1-1.html
+just get curious, stay patient, and keep digging.
+ - break down the needs for each stakeholder, and ask these question:
+    - What are they trying to accomplish?
+    - What problem are they trying to solve?
+    - What would provide them direction?
+    - If you asked for this report, what would you want to see?
+ - Identify some hypotheses and after you’ve collected a few hypotheses, 
+   dedicate yourself to collecting data that either supports or disproves that hypothesis.
+ - when you have the data, filter the data to analyze the relationship for each drivers and variables.
+ 
+ 2. the six things you need ask to hire a great product data scientist
+ https://amplitude.com/blog/2017/05/25/hire-product-analyst
+ 
+ - Strong abstract analytical skills: probability, causality, and algebra.
+    for causality,  it means you can understand the reason for a changed KPIs.
+ - 
+ 
+ 
+ 
+ ![]("http://unbounce.com/photos/email-marketing-header.jpg")
