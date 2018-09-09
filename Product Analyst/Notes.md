@@ -20,4 +20,6 @@ just get curious, stay patient, and keep digging.
  
  
  
+ <div style="text-align:center"><img src ="http://unbounce.com/photos/email-marketing-header.jpg" /></div>
+ 
  ![marketing conversion process](http://unbounce.com/photos/email-marketing-header.jpg)
