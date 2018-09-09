@@ -20,4 +20,4 @@ just get curious, stay patient, and keep digging.
  
  
  
- ![das]("http://unbounce.com/photos/email-marketing-header.jpg")
+ ![marketing conversion process](http://unbounce.com/photos/email-marketing-header.jpg)
