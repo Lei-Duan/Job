@@ -1,4 +1,4 @@
-1. 6 Essential Skills To Look Like a Product Analyst Rockstar:
+1. 6 Essential Skills To Look Like a Product Analyst Rockstar:  
 https://medium.com/inside-formstack/an-analyst-and-beyond-ef9e0cf6608
 
 just get curious, stay patient, and keep digging.
@@ -11,7 +11,7 @@ just get curious, stay patient, and keep digging.
    dedicate yourself to collecting data that either supports or disproves that hypothesis.
  - when you have the data, filter the data to analyze the relationship for each drivers and variables.
  
- 2. the six things you need ask to hire a great product data scientist
+ 2. the six things you need ask to hire a great product data scientist:  
  https://amplitude.com/blog/2017/05/25/hire-product-analyst
  
  - Strong abstract analytical skills: probability, causality, and algebra.
@@ -20,4 +20,4 @@ just get curious, stay patient, and keep digging.
  
  
  
- ![]("http://unbounce.com/photos/email-marketing-header.jpg")
+ ![das]("http://unbounce.com/photos/email-marketing-header.jpg")
