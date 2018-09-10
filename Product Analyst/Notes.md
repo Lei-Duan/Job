@@ -47,10 +47,10 @@ just get curious, stay patient, and keep digging.
 3. The product analyst toolkit  
 https://snowplowanalytics.com/blog/2018/02/09/the-product-analyst-toolkit/
 
- - Cohort analysis :  it compares two or more user groups over a period of time.(It is instructive to compare it with time series) .Any                       A/B tests run on the product are a form of cohort analysis, with the control group and the test group being two cohorts.
- - Retention analysis : 
- - A/B testing
- - Heat mapping
+ - Cohort analysis :  it compares two or more user groups over a period of time.(It is instructive to compare it with time series). Any A/B tests run on the product are a form of cohort analysis, with the control group and the test group being two cohorts.
+ - Retention analysis :  looks closely at how long your customers are staying engaged with your product and can help you understand what percentage of your users come back after signing up or downloading your product.This kind of data is essential for **building an accurate customer lifecycle model** and determine what factors are keeping people engaged.
+ - A/B testing : 
+ - Heat mapping : i.e: Decibel Insight, Hotjar.To see exactly what the most popular and commonly used features or buttons are within your product. for example, where the most clicks occur on your website’s homepage.This kind of data is especially **valuable in the first stage of the product development process when you’re generating ideas**.
  - Session replay
  - Funnel analysis
  - User survey
