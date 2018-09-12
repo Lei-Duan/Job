@@ -61,38 +61,38 @@ https://www.cybercoders.com/data-scientist-fully-automated-risk-control-engine-j
 https://www.cybercoders.com/data-scientist-machine-learning-job-442570   
 
 ## quantfind
-https://www.quantifind.com/careers/associate-data-scientist   
+https://www.quantifind.com/careers/associate-data-scientist     
 
 ## twitter
-https://careers.twitter.com/en/work-for-twitter/201802/data-scientist-product.html
-https://careers.twitter.com/en/work-for-twitter/201808/product-data-scientist-manipulation0.html
+https://careers.twitter.com/en/work-for-twitter/201802/data-scientist-product.html   
+https://careers.twitter.com/en/work-for-twitter/201808/product-data-scientist-manipulation0.html   
 
 ## square
-https://www.smartrecruiters.com/Square/743999675176171?trid=89a51157-e4b1-4ba7-abd9-ea30cbee8792
+https://www.smartrecruiters.com/Square/743999675176171?trid=89a51157-e4b1-4ba7-abd9-ea30cbee8792   
 
 ## lime
-https://jobs.lever.co/limebike/e54f49e1-3348-4ff1-bdf0-b424388efd40
-https://jobs.lever.co/limebike/f6755b66-33cf-414f-9ffa-80532c2eff9e
+https://jobs.lever.co/limebike/e54f49e1-3348-4ff1-bdf0-b424388efd40   
+https://jobs.lever.co/limebike/f6755b66-33cf-414f-9ffa-80532c2eff9e   
 
 ## credit karma
-1. product analyst:https://jobs.lever.co/creditkarma/3b3a245b-310d-4105-a61c-9a64afb7974c
-2. Partner Decision Science Associate: https://jobs.lever.co/creditkarma/a455c9ce-d404-4726-a227-64ba1dcaddb8
-3. Marketing analyst: https://jobs.lever.co/creditkarma/1ec1b305-492c-468b-8382-8771e93bdcb5
-
+1. product analyst:https://jobs.lever.co/creditkarma/3b3a245b-310d-4105-a61c-9a64afb7974c   
+2. Partner Decision Science Associate: https://jobs.lever.co/creditkarma/a455c9ce-d404-4726-a227-64ba1dcaddb8   
+3. Marketing analyst: https://jobs.lever.co/creditkarma/1ec1b305-492c-468b-8382-8771e93bdcb5   
+  
 ## IBM
-http://careers.ibm.com/ShowJob/Id/339972/Data%20Scientist%20%20%20Intern%20Coop
+http://careers.ibm.com/ShowJob/Id/339972/Data%20Scientist%20%20%20Intern%20Coop   
 
 ## Stripe
-https://stripe.com/jobs/positions/data-scientist
-https://stripe.com/jobs/positions/data-analyst
+https://stripe.com/jobs/positions/data-scientist   
+https://stripe.com/jobs/positions/data-analyst   
 
-http://blog.datadive.net/selecting-good-features-part-iii-random-forests/   
-http://www.ccs.miami.edu/~hishwaran/papers/IKGML.JASA.2010.pdf   
-https://cran.r-project.org/web/packages/datarobot/vignettes/PartialDependence.html   
+http://blog.datadive.net/selecting-good-features-part-iii-random-forests/      
+http://www.ccs.miami.edu/~hishwaran/papers/IKGML.JASA.2010.pdf      
+https://cran.r-project.org/web/packages/datarobot/vignettes/PartialDependence.html      
 
 ## Glassdoor
 Machine Learning Intern
-https://www.glassdoor.com/job-listing/data-scientist-machine-learning-intern-glassdoor-JV_IC1147401_KO0,38_KE39,48.htm?jl=2936534593&ctt=1536705280883
+https://www.glassdoor.com/job-listing/data-scientist-machine-learning-intern-glassdoor-JV_IC1147401_KO0,38_KE39,48.htm?jl=2936534593&ctt=1536705280883   
 
 From Ken: 
 Saas Metrics: https://www.forentrepreneurs.com/saas-metrics-2/
