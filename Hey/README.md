@@ -90,6 +90,10 @@ http://blog.datadive.net/selecting-good-features-part-iii-random-forests/
 http://www.ccs.miami.edu/~hishwaran/papers/IKGML.JASA.2010.pdf   
 https://cran.r-project.org/web/packages/datarobot/vignettes/PartialDependence.html   
 
+## Glassdoor
+Machine Learning Intern
+https://www.glassdoor.com/job-listing/data-scientist-machine-learning-intern-glassdoor-JV_IC1147401_KO0,38_KE39,48.htm?jl=2936534593&ctt=1536705280883
+
 From Ken: 
 Saas Metrics: https://www.forentrepreneurs.com/saas-metrics-2/
 Online MarketPlace : https://www.sharetribe.com/academy/measure-your-success-key-marketplace-metrics/
