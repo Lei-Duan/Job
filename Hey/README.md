@@ -80,7 +80,8 @@ https://jobs.lever.co/limebike/f6755b66-33cf-414f-9ffa-80532c2eff9e
 3. Marketing analyst: https://jobs.lever.co/creditkarma/1ec1b305-492c-468b-8382-8771e93bdcb5   
   
 ## IBM
-http://careers.ibm.com/ShowJob/Id/339972/Data%20Scientist%20%20%20Intern%20Coop   
+http://careers.ibm.com/ShowJob/Id/339972/Data%20Scientist%20%20%20Intern%20Coop  
+https://careers.ibm.com/ShowJob/Id/360429/Entry-Level-Data-Scientist/?lang=en    
 
 ## Stripe
 https://stripe.com/jobs/positions/data-scientist   
