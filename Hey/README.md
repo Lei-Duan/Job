@@ -95,6 +95,11 @@ https://cran.r-project.org/web/packages/datarobot/vignettes/PartialDependence.ht
 Machine Learning Intern
 https://www.glassdoor.com/job-listing/data-scientist-machine-learning-intern-glassdoor-JV_IC1147401_KO0,38_KE39,48.htm?jl=2936534593&ctt=1536705280883   
 
+## Allstate
+https://jobsearch.allstate.com/ShowJob/Id/1777730/New%20Grad%20%20%20D3%20%20%20Junior%20Data%20Scientist
+
+## 
+
 From Ken: 
 Saas Metrics: https://www.forentrepreneurs.com/saas-metrics-2/
 Online MarketPlace : https://www.sharetribe.com/academy/measure-your-success-key-marketplace-metrics/
@@ -103,6 +108,10 @@ Churn Analysis : benbosukhong.com/churn-rate-part-1-customer-churn-rate-example-
 Churn Rate Calculation : https://engineering.shopify.com/blogs/engineering/defining-churn-rate-no-really-this-actually-requires-an-entire-blog-post
 Vanity Metrics : https://tim.blog/2009/05/19/vanity-metrics-vs-actionable-metrics/
 Funnel Optimization: https://segment.com/academy/collecting-data/how-to-optimize-your-funnel/
+
+
+
+
 
 
 
