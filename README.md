@@ -15,13 +15,11 @@ Both corrections leave the OLS coefficient unaltered. However, the corrections i
 
 ### efficiency vs biased
 
-
-
-
 http://www.1point3acres.com/bbs/thread-431724-1-1.html
 
 
-### Recursion and Dynamic Programming
-https://stackoverflow.com/questions/1065433/what-is-dynamic-programming
+### Recursion and Dynamic Programming   
+https://stackoverflow.com/questions/1065433/what-is-dynamic-programming   
 
+### what is Hadoop ( in Chinese )    
 https://chu888chu888.gitbooks.io/hadoopstudy/content/Content/3/chapter3.html
