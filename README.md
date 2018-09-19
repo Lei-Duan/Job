@@ -24,5 +24,7 @@ https://stackoverflow.com/questions/1065433/what-is-dynamic-programming
 ### what is Hadoop ( in Chinese )    
 https://chu888chu888.gitbooks.io/hadoopstudy/content/Content/3/chapter3.html
 
+### kaggle blog
+http://blog.kaggle.com/category/tutorials/
 
 https://www.google.com/search?num=20&newwindow=1&rlz=1C1GCEA_enUS806US806&ei=iX2hW6WRCZO80PEPsOOX4Ag&q=machine+learning+whiteboard+interview&oq=machine+learning+whiteboard+interview&gs_l=psy-ab.3..33i21j33i160.172972.184416..184582...1.0..1.301.7595.0j19j17j1......0....1..gws-wiz.......0j0i67j35i39j0i131i20i264j0i131j0i20i264j0i203j0i22i30j0i13.KB3dqhh5cp0
