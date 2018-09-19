@@ -35,31 +35,6 @@ https://careers.walmart.com/us/jobs/1104552BR-associate-product-analyst-san-brun
 ### Product Analyst    
 https://boards.greenhouse.io/anki/jobs/1214995?s=LinkedIn&source=LinkedIn
 
-
-## Mircosoft   
-### Intern opportunities for students: Data & Applied Sciences
-https://careers.microsoft.com/us/en/job/473873/Intern-opportunities-for-students-Data-Applied-Sciences?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed
-
-
-### Full-time opportunities for students & recent graduates: Data & Applied Sciences
-https://careers.microsoft.com/us/en/job/473849/Full-time-opportunities-for-students-recent-graduates-Data-Applied-Sciences
-
-## Uber
-https://www.uber.com/careers/list/?city=san-francisco&country=united-states-of-america&keywords=data+&subteam=all&team=all   
-Data Scientist, Optimization: https://www.uber.com/careers/list/35464/   
-Data Scientist - Marketplace Optimization:https://www.uber.com/careers/list/16643/   
-Product Analyst: https://www.uber.com/careers/list/41750/   
-Data Analyst: https://www.uber.com/careers/list/39836/?iis=uber.com/careers&iisp=he-6584079   
-
-
-## Cybercoder
-https://www.cybercoders.com/data-scientist-job-442763   
-https://www.cybercoders.com/data-scientist-job-421067   
-https://www.cybercoders.com/data-scientist-job-444403   
-https://www.cybercoders.com/data-scientist-data-modeling-analytics-python-r-aws-redshift-job-444555   
-https://www.cybercoders.com/data-scientist-fully-automated-risk-control-engine-job-420072    
-https://www.cybercoders.com/data-scientist-machine-learning-job-442570   
-
 ## quantfind
 https://www.quantifind.com/careers/associate-data-scientist     
 
@@ -95,10 +70,6 @@ https://cran.r-project.org/web/packages/datarobot/vignettes/PartialDependence.ht
 Machine Learning Intern
 https://www.glassdoor.com/job-listing/data-scientist-machine-learning-intern-glassdoor-JV_IC1147401_KO0,38_KE39,48.htm?jl=2936534593&ctt=1536705280883   
 
-## Allstate
-https://jobsearch.allstate.com/ShowJob/Id/1777730/New%20Grad%20%20%20D3%20%20%20Junior%20Data%20Scientist
-
-## 
 
 From Ken: 
 Saas Metrics: https://www.forentrepreneurs.com/saas-metrics-2/
