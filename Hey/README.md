@@ -83,8 +83,11 @@ Funnel Optimization: https://segment.com/academy/collecting-data/how-to-optimize
 ## wealthfront
 https://jobs.lever.co/wealthfront/83001eef-9f77-4735-b5d0-3fe7aedbf9af/apply?lever-source=Glassdoor
 
+## upstart
+https://www.upstart.com/careers/1263003/apply?gh_jid=1263003
 
-
+## Tapjoy
+https://careers.jobscore.com/careers/tapjoy/jobs/senior-data-scientist-bgTOfAq0Or6ic2dG1ZS6tF?ref=rss&sid=68
 
 Interview:
 1. https://towardsdatascience.com/data-science-and-machine-learning-interview-questions-3f6207cf040b   
