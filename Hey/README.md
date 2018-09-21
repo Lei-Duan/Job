@@ -71,14 +71,6 @@ Machine Learning Intern
 https://www.glassdoor.com/job-listing/data-scientist-machine-learning-intern-glassdoor-JV_IC1147401_KO0,38_KE39,48.htm?jl=2936534593&ctt=1536705280883   
 
 
-From Ken: 
-Saas Metrics: https://www.forentrepreneurs.com/saas-metrics-2/
-Online MarketPlace : https://www.sharetribe.com/academy/measure-your-success-key-marketplace-metrics/
-Churn Analysis / Cohort	: http://www.gregreda.com/2015/08/23/cohort-analysis-with-python/
-Churn Analysis : benbosukhong.com/churn-rate-part-1-customer-churn-rate-example-code/
-Churn Rate Calculation : https://engineering.shopify.com/blogs/engineering/defining-churn-rate-no-really-this-actually-requires-an-entire-blog-post
-Vanity Metrics : https://tim.blog/2009/05/19/vanity-metrics-vs-actionable-metrics/
-Funnel Optimization: https://segment.com/academy/collecting-data/how-to-optimize-your-funnel/
 
 ## wealthfront
 https://jobs.lever.co/wealthfront/83001eef-9f77-4735-b5d0-3fe7aedbf9af/apply?lever-source=Glassdoor
@@ -88,6 +80,20 @@ https://www.upstart.com/careers/1263003/apply?gh_jid=1263003
 
 ## Tapjoy
 https://careers.jobscore.com/careers/tapjoy/jobs/senior-data-scientist-bgTOfAq0Or6ic2dG1ZS6tF?ref=rss&sid=68
+
+## Affirm
+https://jobs.lever.co/affirm/c8b8c039-4b3f-4b22-a374-4c61550616a2/apply
+
+
+From Ken: 
+Saas Metrics: https://www.forentrepreneurs.com/saas-metrics-2/
+Online MarketPlace : https://www.sharetribe.com/academy/measure-your-success-key-marketplace-metrics/
+Churn Analysis / Cohort	: http://www.gregreda.com/2015/08/23/cohort-analysis-with-python/
+Churn Analysis : benbosukhong.com/churn-rate-part-1-customer-churn-rate-example-code/
+Churn Rate Calculation : https://engineering.shopify.com/blogs/engineering/defining-churn-rate-no-really-this-actually-requires-an-entire-blog-post
+Vanity Metrics : https://tim.blog/2009/05/19/vanity-metrics-vs-actionable-metrics/
+Funnel Optimization: https://segment.com/academy/collecting-data/how-to-optimize-your-funnel/
+
 
 Interview:
 1. https://towardsdatascience.com/data-science-and-machine-learning-interview-questions-3f6207cf040b   
