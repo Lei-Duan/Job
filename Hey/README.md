@@ -3,6 +3,26 @@
 https://www.businessinsider.com/the-19-hottest-startups-in-san-francisco-to-watch-in-2018-2017-11#payjoy-is-helping-people-with-no-credit-or-cash-get-smartphones-12   
 2. 
 
+## Dropbox   
+### Product Analyst
+https://www.dropbox.com/jobs/listing/91535
+### Product Analyst - Platfrom
+https://www.dropbox.com/jobs/listing/1325963
+
+## King
+### data scientist
+https://king.com/jobs/product-data-scientist-829?breadcrumbs=/jobs&location=san-francisco
+
+## Twitter
+### Data Scientist - Ads Marketplace
+https://careers.twitter.com/en/work-for-twitter/201808/data-scientist-ads-marketplace.html
+
+## Twitch
+### Data Analyst - Operational Excellence
+https://jobs.lever.co/twitch/9819ff97-de92-41fa-a7cc-1c2044a80904
+
+## TrueAccord
+https://jobs.lever.co/trueaccord?location=San%20Francisco%2C%20CA
 
 ## Nextdoor (382)   
 ### Data Science Product
